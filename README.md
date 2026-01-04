@@ -5,8 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alifnrhman&locale=en&mode=weekly&theme=onedark&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=alifnrhman&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=alifnrhman&locale=en&mode=weekly&theme=onedark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="140" alt="streak graph"  />
 </div>
 
 ###
@@ -21,7 +20,7 @@
 
 ###
 
-<h2 align="center">My Tech Stacks</h2>
+<h1 align="center">My Tech Stacks</h1>
 
 ###
 
@@ -67,7 +66,7 @@
 
 ###
 
-<h2 align="center">My Socials</h2>
+<h1 align="center">My Socials</h1>
 
 ###
 
