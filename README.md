@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alifnrhman&locale=en&mode=weekly&theme=onedark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="140" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=alifnrhman&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="140" alt="streak graph"  />
 </div>
 
 ###
@@ -26,41 +26,41 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="threejs logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
 </div>
 
