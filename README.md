@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm currently a 5th semester Information Systems student and a Full-Stack Developer. I specialize in turning complex ideas into clean, functional, and user-friendly digital solutions.</p>
+<p align="left">I'm currently a 3rd year Information Systems student and a Full-Stack Developer. I specialize in turning complex ideas into clean, functional, and user-friendly digital solutions.</p>
 
 ###
 
@@ -39,9 +39,13 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=elysia" height="60" alt="elysia logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="20" />
