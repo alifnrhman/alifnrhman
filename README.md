@@ -61,6 +61,8 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
